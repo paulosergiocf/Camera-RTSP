@@ -1,6 +1,7 @@
 from enum import Enum
 class Colors(Enum):
     CINZA_ESCURO_AZULADO = "#23272B"
+    CINZA_ESCURO = "#252525"
     CINZA_CLARO = "#F2F2F2"
     LARANJA_MOSTARDA = "#8C3F23"
     ROSA_CLARO = "#7E3735"

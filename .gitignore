@@ -1,0 +1,11 @@
+ateste
+listar_cameras.py
+fusao.py
+reconhecimento_facial.py
+TESTE.PY
+tk.py
+yolov8x.pt
+.env
+.venv/
+.vscode/
+__pycache__/
